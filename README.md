@@ -5,3 +5,4 @@ jadi satu bulan yang lalu gua ngambli course java di Dicoding dan gua berhasil m
 *apa aja sih yang gua pelajari disitu :
 - pengenalan dan dasar Java
 - OOP
+- Flow java
